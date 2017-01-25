@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon lab3.js"
   },
   "dependencies": {
     "commonjs": "0.0.1",
     "express": "^4.14.0"
   },
   "description": "This app is for lab 3 to execute and get parameters",
-  "main": "server.js",
+  "main": "lab3.js",
   "author": "Junghwan Yang",
   "license": "ISC"
 }

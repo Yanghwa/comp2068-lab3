@@ -6,7 +6,8 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "commonjs": "0.0.1"
+    "commonjs": "0.0.1",
+    "express": "^4.14.0"
   },
   "description": "This app is for lab 3 to execute and get parameters",
   "main": "server.js",
